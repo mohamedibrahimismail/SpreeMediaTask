@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#F4A422</color>
+    <color name="purble">#732A80</color>
+    <color name="fb_color">#3B5998</color>
+    <color name="tw_color">#55ACEE</color>
+    <color name="g_color">#D34836</color>
+    <color name="header_background">#283040</color>
+    <color name="active">#388E3C</color>
+    <color name="pending">#FFC107</color>
+    <color name="expired">#C1BAA7</color>
+</resources>
